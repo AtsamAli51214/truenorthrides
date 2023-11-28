@@ -2203,3 +2203,10 @@ ul.social-ft li:last-child {
 .logo-lg{
 	height: 51px !important;
 }
+
+
+ @media only screen and (max-width: 600px){ 
+	.flag{
+		display: none !important;
+	}
+ }
